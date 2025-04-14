@@ -1,4 +1,5 @@
 select
+    "changes" AS changes,
     order_id,
     user_name as user_id,
     order_status,
